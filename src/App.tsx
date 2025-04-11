@@ -45,7 +45,7 @@ function App() {
       title: "Ecell Insights",
       date: "Oct 17, 2024",
       description: "Unlock entrepreneurial wisdom with E-Cell Insights",
-      image: "ecellinsights.jpg"
+      image: "Ecell/ecellinsights.jpg"
     }
   ];
 
