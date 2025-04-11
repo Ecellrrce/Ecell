@@ -53,17 +53,17 @@ function App() {
     {
       name: "Kushi P M",
       role: "President",
-      image: "kushi.jpg"
+      image: "/kushi.jpg"
     },
     {
       name: "Kavan Sudev",
       role: "Vice President",
-      image: "kavan.jpg"
+      image: "/kavan.jpg"
     },
     {
       name: "Raghav Bhat",
       role: "Secretory",
-      image: "raghav.jpg"
+      image: "/raghav.jpg"
     },
     {
       name: "Pavan M R",
@@ -73,22 +73,22 @@ function App() {
     {
       name: "Nikhil S H",
       role: "Tech Lead",
-      image: "nikhil.jpg"
+      image: "/nikhil.jpg"
     },
     {
       name: "Shrivatsa",
       role: "Corporate Relations Head",
-      image: "shrivatsa.jpg"
+      image: "/shrivatsa.jpg"
     },
     {
       name: "H M Sanjana",
       role: "Research and Innovation Head",
-      image: "sanjana.jpg"
+      image: "/sanjana.jpg"
     },
     {
       name: "Tejaswini",
       role: "Marketing head",
-      image: "sanjana.jpg"
+      image: "/sanjana.jpg"
     }
 
   ];
